@@ -1,4 +1,3 @@
-// Classe Motor
 class Motor {
     constructor(potencia, tipo) {
         this._potencia = potencia
